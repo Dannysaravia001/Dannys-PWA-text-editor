@@ -1,0 +1,9 @@
+{
+    "name": "just-another-text-editor",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+    "switch-and-start": "cd Develop && npm run start"
+  }
+}
