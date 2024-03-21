@@ -43,3 +43,7 @@ Github profile: [Dannysaravia001](https://github.com/Dannysaravia001)
 No liceneses used
 
 ## videos-demo
+[anotherfunnyvideolol.webm](https://github.com/Dannysaravia001/Dannys-PWA-text-editor/assets/143926483/51228d7c-cf4a-4fb7-a1ef-810fb2849f8a)
+
+## Link
+Link to deployed website [here!](https://dannys-pwa-text-editor.onrender.com)
