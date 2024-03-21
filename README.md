@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a Text editor called JATE (just another text editor) 
+This project is a Text editor called JATE (just another text editor) that youre able to download in your webpack
 
 ## Table of Contents
 - [Installation](#installation)
